@@ -1,1 +1,1 @@
-# Pride-Trails-Texture-Pack
+# Pride Trails Texture Pack
