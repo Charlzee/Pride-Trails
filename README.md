@@ -1,4 +1,6 @@
-# Pride Trails Texture Pack
+# Pride Trails
+#
+# NOTE: I CANNOT ADD ALL PRIDE FLAGS BECAUSE THERE IS ONLY 7 TRAILS!
 - Trails 2-7 are now different pride flags:
   - Trail 2: **Rainbow** Pride Flag
   - Trail 3: **Aroace** Pride Flag
