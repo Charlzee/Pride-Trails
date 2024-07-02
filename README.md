@@ -1,6 +1,6 @@
 # Pride Trails
-#
-# NOTE: I CANNOT ADD ALL PRIDE FLAGS BECAUSE THERE IS ONLY 7 TRAILS!
+
+# NOTE: I CANNOT add all pride flags as there is only 7 trails in the game currently.
 - Trails 2-7 are now different pride flags:
   - Trail 2: **Rainbow** Pride Flag
   - Trail 3: **Aroace** Pride Flag
