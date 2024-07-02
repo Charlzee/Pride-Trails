@@ -1,3 +1,4 @@
+
 # Pride Trails
 
 # NOTE: I CANNOT add all pride flags as there is only 7 trails in the game currently.
