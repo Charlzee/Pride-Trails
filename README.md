@@ -6,3 +6,4 @@
   - Trail 5: **Transgender** Pride Flag
   - Trail 6: **Bisexual** Pride Flag
   - Trail 7: **Gay** Pride Flag
+![image](https://github.com/CharlGD1/Pride-Trails/assets/92670599/3706c8a5-0579-4462-be9c-a1f67225a294)
