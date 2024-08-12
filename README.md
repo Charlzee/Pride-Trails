@@ -19,5 +19,5 @@ Download Link (Geode): https://geode-sdk.org/mods/user95401.custom_patcher
 1. Install the mod linked above.
 2. Click "View" on the mods list then click the settings icon in the bottom left.
 3. Scroll to the bottom of the settings list and change "Trails" from 7 -> 8 (Image below)
-![image](https://github.com/user-attachments/assets/ae913d5d-a373-421b-be1a-69ea96b34aee)
+![image](https://github.com/user-attachments/assets/0b5cf003-9aed-4865-a558-2222e638ef75)
 4. You're all set! You can now use the texture pack with all the trails!
