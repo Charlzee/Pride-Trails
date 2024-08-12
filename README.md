@@ -24,5 +24,7 @@ Download Link (Geode): https://geode-sdk.org/mods/user95401.custom_patcher
 
 ## **P.S.**
 If you use Custom Patcher, the icon for the trail will look like this:
+
 ![image](https://github.com/user-attachments/assets/c7ce6ef4-d274-4eb2-9808-04ea817a3536)
+
 I currently dont know how to fix this.
