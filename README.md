@@ -15,7 +15,7 @@
 
 
 # MORE ICONS:
-Download Link (Geode): [https://geode-sdk.org/mods/user95401.custom_patcher](https://geode-sdk.org/mods/hiimjustin000.more_icons)
+Download Link (Geode): https://geode-sdk.org/mods/hiimjustin000.more_icons
 # HOW TO ADD MORE TRAILS:
 1. Install the mod linked above.
 2. You're all set! You can now use the texture pack with all the trails!
