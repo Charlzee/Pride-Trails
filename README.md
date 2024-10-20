@@ -21,7 +21,7 @@ Download Link (Geode): https://geode-sdk.org/mods/hiimjustin000.more_icons
 2. You're all set! You can now use the texture pack with all the trails!
 
 ## **P. S.**
-If you use "More Icons", the trails will be in a seperate page to the other icons:
+If you use "More Icons", the trails will be in a seperate page to the other trails:
 
 ![image](https://github.com/user-attachments/assets/4bdcec02-d181-40c7-aee3-2b75eef82abf)
 
