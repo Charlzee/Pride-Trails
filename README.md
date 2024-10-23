@@ -17,7 +17,7 @@
 # MORE ICONS:
 Download Link (Geode): https://geode-sdk.org/mods/hiimjustin000.more_icons
 
-## **P. S.**
+
 If you use "More Icons", the trails will be in a seperate page to the other trails:
 
 ![image](https://github.com/user-attachments/assets/4bdcec02-d181-40c7-aee3-2b75eef82abf)
