@@ -1,5 +1,5 @@
 # Pride Trails
-# NOTE: I CANNOT add all pride flags as there is only 7 trails in the game currently.
+# NOTE: I CANNOT add all pride flags _without mods_ as there is only 7 trails in the game currently.
 # EDIT: There is a mod called "More Icons" which allows you to edit the amount of trails in the game, if you want to install it then scroll to the bottom of this file.
 - Trails 2-8 are now different pride flags:
   - Trail 2: **Rainbow** Pride Flag
