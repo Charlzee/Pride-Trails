@@ -22,7 +22,7 @@
   - Trail 19: **Ally** Pride Flag
   - Trail 20: **Femboy** Pride Flag
 
-# (Texture Pack Version 1.5.1 or below)
+# (Texture Pack Version 1.5.1 or below):
 ![image](https://github.com/CharlGD1/Pride-Trails/assets/92670599/3706c8a5-0579-4462-be9c-a1f67225a294)
 
 
