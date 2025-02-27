@@ -29,7 +29,7 @@
 
 # MORE ICONS (Texture Pack Version 1.6.1 or above):
 Download Link (Geode): https://geode-sdk.org/mods/hiimjustin000.more_icons
-
+Download Link (GitHub): https://github.com/hiimjasmine00/MoreIcons
 
 With "More Icons", the trails will be in a seperate page to the other trails:
 
