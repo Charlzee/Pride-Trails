@@ -1,5 +1,5 @@
 # Pride Trails
-# YOU NEED THE MOD "More Icons" TO USE THE TEXTURE PACK (version 2.0.0+ of the texture pack)
+# YOU NEED THE MOD "More Icons" TO USE THE TEXTURE PACK (version 2.0.0 or above of the texture pack)
 - There are now 20 pride flag trails:
   - Trail 1: **Rainbow** Pride Flag
   - Trail 2: **Aroace** Pride Flag
@@ -22,11 +22,12 @@
   - Trail 19: **Ally** Pride Flag
   - Trail 20: **Femboy** Pride Flag
 
+# (Texture Pack Version 1.5.1 or below)
 ![image](https://github.com/CharlGD1/Pride-Trails/assets/92670599/3706c8a5-0579-4462-be9c-a1f67225a294)
 
 
 
-# MORE ICONS:
+# MORE ICONS (Texture Pack Version 2.0.0 or above):
 Download Link (Geode): https://geode-sdk.org/mods/hiimjustin000.more_icons
 
 
