@@ -1,26 +1,26 @@
 # Pride Trails
 # YOU NEED THE MOD "More Icons" TO USE THE TEXTURE PACK (version 2.0.0+ of the texture pack)
-- Trails 2-21 are now different pride flags:
-  - Trail 2: **Rainbow** Pride Flag
-  - Trail 3: **Aroace** Pride Flag
-  - Trail 4: **Pansexual** Pride Flag
-  - Trail 5: **Transgender** Pride Flag
-  - Trail 6: **Bisexual** Pride Flag
-  - Trail 7: **Gay** Pride Flag
-  - Trail 8: **Progress** Pride Flag
-  - Trail 9: **Philadelphia** Pride Flag
-  - Trail 10: **Nonbinary** Pride Flag
-  - Trail 11: **Intersex** Pride Flag
-  - Trail 12: **Asexual** Pride Flag
-  - Trail 13: **Lesbian** Pride Flag
-  - Trail 14: **Abrosexual** Pride Flag
-  - Trail 15: **Bigender** Pride Flag
-  - Trail 16: **Greysexual** Pride Flag
-  - Trail 17: **Genderflux** Pride Flag
-  - Trail 18: **Gender Queer** Pride Flag
-  - Trail 19: **Demiboy** Pride Flag
-  - Trail 20: **Ally** Pride Flag
-  - Trail 21: **Femboy** Pride Flag
+- There are now 20 pride flag trails:
+  - Trail 1: **Rainbow** Pride Flag
+  - Trail 2: **Aroace** Pride Flag
+  - Trail 3: **Pansexual** Pride Flag
+  - Trail 4: **Transgender** Pride Flag
+  - Trail 5: **Bisexual** Pride Flag
+  - Trail 6: **Gay** Pride Flag
+  - Trail 7: **Progress** Pride Flag
+  - Trail 8: **Philadelphia** Pride Flag
+  - Trail 9: **Nonbinary** Pride Flag
+  - Trail 10: **Intersex** Pride Flag
+  - Trail 11: **Asexual** Pride Flag
+  - Trail 12: **Lesbian** Pride Flag
+  - Trail 13: **Abrosexual** Pride Flag
+  - Trail 14: **Bigender** Pride Flag
+  - Trail 15: **Greysexual** Pride Flag
+  - Trail 16: **Genderflux** Pride Flag
+  - Trail 17: **Gender Queer** Pride Flag
+  - Trail 18: **Demiboy** Pride Flag
+  - Trail 19: **Ally** Pride Flag
+  - Trail 20: **Femboy** Pride Flag
 
 ![image](https://github.com/CharlGD1/Pride-Trails/assets/92670599/3706c8a5-0579-4462-be9c-a1f67225a294)
 
