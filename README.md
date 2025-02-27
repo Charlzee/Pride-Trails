@@ -35,4 +35,5 @@ With "More Icons", the trails will be in a seperate page to the other trails:
 
 ![image](https://github.com/user-attachments/assets/4bdcec02-d181-40c7-aee3-2b75eef82abf)
 
-
+# 
+If I have missed a pride flag that you would like in the mod, create an issue!
